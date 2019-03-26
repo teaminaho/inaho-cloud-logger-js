@@ -1,6 +1,6 @@
 {
   "name": "inaho-cloud-logger-js",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "inaho cloud logger for js",
   "main": "lib/index.js",
   "scripts": {
