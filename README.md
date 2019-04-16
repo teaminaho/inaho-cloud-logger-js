@@ -26,6 +26,8 @@ $ npm start
 
 ## Contribute
 
-Open an issue or submit PRs.
+Open an [issue](https://github.com/teaminaho/inaho-cloud-logger-js/issues/new) or submit [PRs](https://github.com/teaminaho/inaho-cloud-logger-js/pulls).
 
+## License
 
+[MIT](LICENSE)

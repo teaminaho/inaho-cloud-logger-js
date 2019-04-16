@@ -2,6 +2,7 @@
   "name": "inaho-cloud-logger-js",
   "version": "1.0.0",
   "description": "inaho cloud logger for js",
+  "licence": "MIT",
   "main": "lib/index.js",
   "scripts": {
     "test:watch": "jest -c jest.config.js --watch",
