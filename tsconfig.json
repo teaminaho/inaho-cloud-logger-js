@@ -5,9 +5,8 @@
     "noImplicitAny": true,
     "sourceMap": false,
     "rootDir": "./src",
-    "outDir": "./lib"
+    "outDir": "./lib",
+    "declaration": true
   },
-  "include": [
-    "./src/**/*"
-  ]
+  "include": ["./src/**/*"]
 }
